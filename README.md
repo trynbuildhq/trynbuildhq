@@ -12,4 +12,4 @@ I spend my time testing new tools, experimenting with ideas, and building cool p
 - **Email:** trynbuildhq@gmail.com
 
 ---
-*Have an idea for a project or tool I should 
+*Have an idea for a project or tool I should Do?
